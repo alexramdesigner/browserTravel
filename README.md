@@ -27,9 +27,18 @@ Se creó una aplicación web en la cual se puedan ir agregando las ciudades desd
 
 1. Dar click en ver el mapa y luego girar el mapa para buscar la ciudad de la cual quiere saber el clima y la humedad:
 
-<img src="public/assets/img/manual/1.gif" width="800">
+<img src="public/assets/img/manual/1.gif" width="800"><br><br>
 
 
-2. Dar clicken la ciudad, la página baja automaticamente y muestra los datos para la ciudad seleccionada:
+2. Al dar click en la ciudad, la página baja automaticamente y muestra los datos para la ciudad seleccionada:
 
-<img src="public/assets/img/manual/2.gif" width="800">
+<img src="public/assets/img/manual/2.gif" width="800"><br><br>
+
+
+3. Automáticamente el historial va quedando guardado en la parte inferior de la información del clima:
+
+<img src="public/assets/img/manual/3.gif" width="800"><br><br>
+
+4. Automáticamente el historial va quedando guardado en la parte inferior de la información del clima:
+
+<img src="public/assets/img/manual/3.gif" width="800"><br><br>
