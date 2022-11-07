@@ -30,7 +30,7 @@ Se creó una aplicación web en la cual se puedan ir agregando las ciudades desd
 <img src="public/assets/img/manual/1.gif" width="800"><br><br>
 
 
-2. Al dar click en la ciudad, la página baja automaticamente y muestra los datos para la ciudad seleccionada:
+2. Al dar click en la ciudad, la página baja automaticamente y muestra los datos para la ciudad seleccionada, al dar clic en "Ver mapa" la página sube para seleccionar otra ciudad:
 
 <img src="public/assets/img/manual/2.gif" width="800"><br><br>
 
@@ -39,6 +39,22 @@ Se creó una aplicación web en la cual se puedan ir agregando las ciudades desd
 
 <img src="public/assets/img/manual/3.gif" width="800"><br><br>
 
-4. Automáticamente el historial va quedando guardado en la parte inferior de la información del clima:
 
-<img src="public/assets/img/manual/3.gif" width="800"><br><br>
+4. En el administrador de contenido podemos agregar otra ciudad, que no se encuentre registrada en la aplicación, debemos colocar el nombre de la ciudad y las coordenada geograficas de longitud y latitud:
+
+<img src="public/assets/img/manual/5.gif" width="800"><br><br>
+
+
+5. Al dar clic en guardar, se muestra la informacion en la tabla del administrador:
+
+<img src="public/assets/img/manual/6.gif" width="800"><br><br>
+
+
+6. La ciudad también queda actualizada en el front de la aplicación:
+
+<img src="public/assets/img/manual/7.gif" width="800"><br><br>
+
+
+7. En el administrador del contenidos van quedando guardados todos los registros de las conultas lanzadas desde el front, es posible descargarlo en csv, excel o PDF:
+
+<img src="public/assets/img/manual/8.gif" width="800"><br><br>
