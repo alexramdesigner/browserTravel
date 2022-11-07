@@ -29,7 +29,7 @@ Se creó una aplicación web en la cual se puedan ir agregando las ciudades desd
 
 ![Alt text]
 (public/assets/img/manual/1.gif)
-<img src="https://browsertravel.inggen.com/assets/img/manual/1.gif" width="400">
+<img src="public/assets/img/manual/1.gif" width="400">
 
 
 2. Dar clicken la ciudad, la página baja automaticamente y muestra los datos para la ciudad seleccionada:
