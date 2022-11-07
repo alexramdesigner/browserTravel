@@ -5,7 +5,7 @@
 
 ## Acerca de la prueba Browser Travel
 
-Desarrollo creado para la prueba como desarrollador PHP Senior, de aceurdo a los requerimientos señalados:
+Desarrollo creado para la prueba como desarrollador PHP Senior, de acuerdo a los requerimientos señalados:
 
 
 DESARROLLADOR PHP SENIOR
@@ -21,16 +21,16 @@ Diseño Responsive
 
 ## Desarrollo
 
-Se creó una aplicación web en la cual se puedan ir agregando las ciudades desde un sistema de gestión de contenidos personalizado, inicialmente se crearon las tres ciudades solicitadas, pero es posible crear las que sean requeridas, tambien se desarrollo teniendo en cuenta un sistema adaptable a cualquier dispositivo y se hace un registro de IP para control de solicitudes al crear el historial.
+Se creó una aplicación web en la cual se puedan ir agregando las ciudades desde un sistema de gestión de contenidos personalizado, inicialmente se crearon las tres ciudades solicitadas, pero es posible crear las que sean requeridas, también se desarrolló teniendo en cuenta un sistema adaptable a cualquier dispositivo y se hace un registro de IP para control de solicitudes al crear el historial.
 
 ## Manual de usuario
 
-1. Dar click en ver el mapa y luego girar el mapa para buscar la ciudad de la cual quiere saber el clima y la humedad:
+1. Dar clic en ver el mapa y luego girar el mapa para buscar la ciudad de la cual quiere saber el clima y la humedad:
 
 <img src="public/assets/img/manual/1.gif" width="800"><br><br>
 
 
-2. Al dar click en la ciudad, la página baja automaticamente y muestra los datos para la ciudad seleccionada, al dar clic en "Ver mapa" la página sube para seleccionar otra ciudad:
+2. Al dar clic en la ciudad, la página baja automáticamente y muestra los datos para la ciudad seleccionada, al dar clic en "Ver mapa" la página sube para seleccionar otra ciudad:
 
 <img src="public/assets/img/manual/2.gif" width="800"><br><br>
 
@@ -40,12 +40,12 @@ Se creó una aplicación web en la cual se puedan ir agregando las ciudades desd
 <img src="public/assets/img/manual/3.gif" width="800"><br><br>
 
 
-4. En el administrador de contenido podemos agregar otra ciudad, que no se encuentre registrada en la aplicación, debemos colocar el nombre de la ciudad y las coordenada geograficas de longitud y latitud:
+4. En el administrador de contenido podemos agregar otra ciudad, que no se encuentre registrada en la aplicación, debemos colocar el nombre de la ciudad y las coordenada geográficas de longitud y latitud:
 
 <img src="public/assets/img/manual/5.gif" width="800"><br><br>
 
 
-5. Al dar clic en guardar, se muestra la informacion en la tabla del administrador:
+5. Al dar clic en guardar, se muestra la información en la tabla del administrador:
 
 <img src="public/assets/img/manual/6.gif" width="800"><br><br>
 
@@ -55,6 +55,6 @@ Se creó una aplicación web en la cual se puedan ir agregando las ciudades desd
 <img src="public/assets/img/manual/7.gif" width="800"><br><br>
 
 
-7. En el administrador del contenidos van quedando guardados todos los registros de las conultas lanzadas desde el front, es posible descargarlo en csv, excel o PDF:
+7. En el administrador del contenidos van quedando guardados todos los registros de las consultas lanzadas desde el front, es posible descargarlo en csv, Excel o PDF:
 
 <img src="public/assets/img/manual/8.gif" width="800"><br><br>
