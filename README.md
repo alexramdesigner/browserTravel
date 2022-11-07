@@ -3,7 +3,7 @@
 </p>
 
 
-## About Browser Travel Test
+## Acesrca de la prueba Browser Travel
 
 Desarrollo creado para la prueba como desarrollador PHP Senior, de aceurdo a los requerimientos señalados:
 
@@ -23,9 +23,9 @@ Diseño Responsive
 
 Se creó una aplicación web en la cual se puedan ir agregando las ciudades desde un sistema de gestión de contenidos personalizado, inicialmente se crearon las tres ciudades solicitadas, pero es posible crear las que sean requeridas, tambien se desarrollo teniendo en cuenta un sistema adaptable a cualquier dispositivo y se hace un registro de IP para control de solicitudes al crear el historial.
 
-## Secciones de la aplicación
+## Manual de usuario
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
 
 ### Premium Partners
 
