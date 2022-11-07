@@ -27,7 +27,8 @@ Se creó una aplicación web en la cual se puedan ir agregando las ciudades desd
 
 1. Dar click en ver el mapa y luego girar el mapa para buscar la ciudad de la cual quiere saber el clima y la humedad:
 
-(https://github.com/alexramdesigner/browserTravel/blob/master/public/assets/img/manual/1.gif)
+![Alt text]
+(public/assets/img/manual/1.gif)
 <img src="https://browsertravel.inggen.com/assets/img/manual/1.gif" width="400">
 
 
