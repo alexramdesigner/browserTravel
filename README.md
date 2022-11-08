@@ -58,3 +58,10 @@ Se creó una aplicación web en la cual se puedan ir agregando las ciudades desd
 7. En el administrador del contenidos van quedando guardados todos los registros de las consultas lanzadas desde el front, es posible descargarlo en csv, Excel o PDF:
 
 <img src="public/assets/img/manual/8.gif" width="800"><br><br>
+
+
+Acceso admin:
+
+https://browsertravel.inggen.com/admin/
+
+Email: tester@browsertravelsolutions.com
