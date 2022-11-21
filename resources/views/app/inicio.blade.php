@@ -102,7 +102,7 @@
         // Crear gráfica
         var chart = root.container.children.push(am5map.MapChart.new(root, {
             panX: "rotateX",
-            projection: am5map.geoOrthographic()
+            projection: am5map.geoMercator()
         }));
 
         // crear la serie de polígonos
